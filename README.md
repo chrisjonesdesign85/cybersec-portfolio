@@ -20,3 +20,5 @@ A cyber Security Researcher with a passion for learning and CTFs!
 - Importing and parsing a text file in a security-related scenario
 
 - Creating or revising a resume
+  
+- CIS /NIST Frameworks
